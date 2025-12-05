@@ -65,7 +65,7 @@ export default function Shop() {
               "imgUrl": "https://lh3.googleusercontent.com/d/14T5RJIlX7mMg0KNV9KDzlRXyKVm0TpEB",
               "category": "fruit",
               "text": "1kg",
-              "price": 140,
+              "price": 150,
               "stock": 5
             },
             // {
